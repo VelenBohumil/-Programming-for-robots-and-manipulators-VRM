@@ -4,6 +4,6 @@ Course aims: The aim of the course Programming of robots and manipulators is int
 
 Projects in VRM:
 
-Seminar_paper: Short description of collaborative robots and especialy ABB YUMI - IRB 14000 and its usage on various projects.
-Project_1: This project will be created in ABB RobotStudio
-Project_2: In this roject we will be working in teams of 3-4 people and we can use any software to make any application using robots.
+Seminar paper: Bin picking
+Project 1: This project will be created in ABB RobotStudio
+Project 2: In this roject we will be working in teams of 3-4 people and we can use any software to make any application using robots.
