@@ -1,7 +1,6 @@
 # -Programming-for-robots-and-manipulators-VRM
 
-Course aims: The aim of the course Programming of robots and manipulators is introducing modern approaches to technical robotics to students. The course is focusing on programing, kinematics/dynamics solutions, motion optimization, Industry 4.0 and usage of artificial intelligence. Lecturer for this course in 2022: Ing. Roman Parák
-
+Course aims: The aim of the VRM course is to introduce students with modern approaches to robotic technology with a focus on programming, kinematics / dynamics solutions, motion planning, Industry 4.0 and the use of machine learning.
 Projects in VRM:
 
 Seminar paper: Bin picking
